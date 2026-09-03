@@ -142,18 +142,6 @@ function About() {
             </a> */}
 
 
-            {/* Instagram */}
-            {/* <a
-              href="https://www.instagram.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-5 inline-flex items-center gap-3 text-sm font-semibold text-slate-700 transition duration-300 hover:text-pink-600"
-            >
-              <FaInstagram className="text-xl text-pink-600" />
-
-              Follow Aaradya on Instagram
-            </a> */}
-
           </div>
 
         </div>
